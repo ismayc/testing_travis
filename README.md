@@ -1,6 +1,6 @@
 # testing_travis
 
-[![Build Status](https://travis-ci.com/rudeboybert/testing_travis.svg?branch=master)](https://travis-ci.com/rudeboybert/testing_travis)
+[![Build Status](https://travis-ci.com/ismayc/testing_travis.svg?branch=master)](https://travis-ci.com/ismayc/testing_travis)
 
 Automating tests of reproducibility of `.Rmd` files within an RStudio Project using travis-ci. 
 
